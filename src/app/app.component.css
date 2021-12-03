@@ -1,0 +1,8 @@
+nav {
+    display: block;
+    position: fixed;
+    height: 5vh;
+    z-index: 1000;
+    background: #fff;
+    width: 100%;
+}
